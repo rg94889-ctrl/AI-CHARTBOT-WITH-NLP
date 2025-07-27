@@ -1,0 +1,15 @@
+NLP Chatbot: Hello! I'm a chatbot with NLP capabilities. Type 'quit' to exit.
+You: hi
+NLP Chatbot: Hello! How can I help you today?
+You: what is nlp?
+NLP Chatbot: Natural Language Processing (NLP) is a field of AI that focuses on interaction between computers and human language.
+You: show me a weather graph
+NLP Chatbot: Here's a sample weather visualization:
+[Image would be displayed here in a GUI application]
+(Base64 image data length: 16408)
+You: visualize word distribution
+NLP Chatbot: Here's a visualization of word distribution in English text:
+[Image would be displayed here in a GUI application]
+(Base64 image data length: 17832)
+You: bye
+NLP Chatbot: Goodbye!
